@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\12239\Desktop\db1202\EX\ex3\project\out\build\banksystem_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\12239\Desktop\db1202\EX\ex3\project\src\App\dialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\12239\Desktop\db1202\EX\ex3\project\src\App\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\12239\Desktop\db1202\EX\ex3\project\out\build\banksystem_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\12239\Desktop\db1202\EX\ex3\project\out\build\banksystem_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\12239\Desktop\db1202\EX\ex3\project\out\build\banksystem_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\12239\Desktop\db1202\EX\ex3\project\src\App\dialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\12239\Desktop\db1202\EX\ex3\project\src\App\ui_dialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\12239\Desktop\db1202\EX\ex3\project\src\App\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\12239\Desktop\db1202\EX\ex3\project\src\App\dialog.ui" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{AB724361-38F0-3501-95F6-3A526472F1A0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0C4C03D8-F085-3EAA-A7FE-1CAF65DC8F4B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
