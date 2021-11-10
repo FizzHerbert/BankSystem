@@ -1,0 +1,1 @@
+This project is a ordinary bank system, which is built with C++ language, Qt, CMake and MySql.
